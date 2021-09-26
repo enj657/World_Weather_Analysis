@@ -2,7 +2,7 @@
 
 ## Overview of WeatherPy Analysis
 
-Our client, Jack loves the PlanMyTrip app, but he wants to make a few changes to take the app even further. He wants to add the weather description to the weather data we already have, then have beta testers use input statements to filter the data for their weather preferences. These preferences will be used to find possible travel destinations and close hotels. From these possible locations, the tester will choose four cities to create an itinerary. Using the Google Maps Directions API, we will create a travel route between the four cities and make a marker layer map.
+Our client, Jack, loves the PlanMyTrip app, but he wants to make a few changes to take the app even further. He wants to add the weather description to the weather data we already have, then have beta testers use input statements to filter the data for their weather preferences. These preferences will be used to find possible travel destinations and close hotels. From these possible locations, the tester will choose four cities to create an itinerary. Using the Google Maps Directions API, we will create a travel route between the four cities and make a marker layer map.
 
 ### Purpose
 
